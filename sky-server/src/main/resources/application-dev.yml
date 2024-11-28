@@ -17,8 +17,8 @@ sky:
     password: zygj7478
     database: 10
   wechat:
-    appid: wxffb3637a228223b8
-    secret: 84311df9199ecacdf4f12d27b6b9522d
+    appid: wxdad2ed526b2c8f39
+    secret: 987ae459242e36e22949cbf445668cb8
     mchid : 1561414331
     mchSerialNo: 4B3B3DC35414AD50B1B755BAF8DE9CC7CF407606
     privateKeyFilePath: D:\pay\apiclient_key.pem
